@@ -12,8 +12,8 @@ O algoritmo usa como base a seguinte aptidão
 * Ki=22 -> total de 44 bits
 
 ## Exemplo
-Cromossoma:
-* 00001010000110000000011000101010001110111011
+- Cromossoma:
+  * 00001010000110000000011000101010001110111011
 Dividido em x e y:
 * 0000101000011000000001 1000101010001110111011
 Convertidos para base 10:

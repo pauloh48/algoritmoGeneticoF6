@@ -9,7 +9,7 @@ O algoritmo usa como base a seguinte aptidão
 * 2 Variáveis: x, y
 * Domínio: x,y Î [-100, +100]
 * Precisão: 4 a 5 casas decimais
-* Ki=22 ! total de 44 bits
+* Ki=22 -> total de 44 bits
 
 ## Exemplo
 Cromossoma:

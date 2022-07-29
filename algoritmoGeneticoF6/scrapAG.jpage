@@ -1,0 +1,2 @@
+import java.math;
+double n = 200/Math.pow(2, 22) - 1;
